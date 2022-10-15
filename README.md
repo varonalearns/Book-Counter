@@ -13,7 +13,6 @@ This is an alternaitve solution to the [Build a passenger counter app](https://s
   - [My process](#my-process)
     - [Built with](#built-with)
   - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -43,7 +42,4 @@ Put a spin on the original solution for the passenger counter app and make it yo
 
 - Website - [Evalia Varona](https://www.evaliavarona.com)
 - Hashnode - [@evavarona](https://evaliavarona.hashnode.dev)
-
-
-## Acknowledgments
 
